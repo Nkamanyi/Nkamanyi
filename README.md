@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nkamanyi Martin</h1>
-<h3 align="center">I'm a passionate data engineer from Finland</h3>
+<h1 align="left">Hi 👋, I'm Nkamanyi Martin</h1>
+<h3 align="left">I'm a passionate data engineer from Finland</h3>
 
 - 🔭 I’m currently working on **designing and building data pipelines.**
 
@@ -21,7 +21,11 @@
   <li><a href="https://www.credly.com/badges/9dc357df-b1a1-4366-8a29-b1fc669c70c3">AWS Certified Solutions Architect - Associate</a></li>
   <li><a href="https://www.credly.com/badges/8e534b1e-6342-4469-b575-80c750304a08/public_url">AWS Certified Cloud Practitioner</a></li>
   </p>
-
+<p>
+  <li>
+    <a href="https://credentials.databricks.com/7aaba949-469e-40fb-8d2f-82c1dfc09af8#gs.012zl3">Databricks Accredited Lakehouse Fundamentals</a>
+  </li>
+</p>
 <p>
   
 </p>
