@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nkamanyimartin@gmail.com**
 
-- 👨‍💻 Let's connect on <a href="https://www.linkedin.com/in/data-analyst-data-scientist-machine-learning-model-validation/">LinkedIn</a>
+- 👨‍💻 Let's connect on **<a href="https://www.linkedin.com/in/data-analyst-data-scientist-machine-learning-model-validation/">LinkedIn</a>**
 
 
 <h3 align="left">Languages and Tools:</h3>
