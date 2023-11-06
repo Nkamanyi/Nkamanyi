@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nkamanyi Martin</h1>
-<h3 align="left">I'm a passionate data engineer from Finland</h3>
+<p align="left">I am a Data Engineer with a passion for leveraging technology to solve complex business challenges. My expertise lies in modern cloud environments, including AWS and Azure, where I excel in designing, building, and optimizing high-volume batch and real-time data pipelines. With a strong foundation in data lake infrastructure, data warehousing, and data analytic tools, I am adept at developing and maintaining robust data management platforms.</p>
 
 - 🔭 I’m currently working on **designing and building data pipelines.**
 
