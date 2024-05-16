@@ -7,7 +7,7 @@ As I continue to grow in this field, I remain committed to learning and adopting
 
 Let’s innovate and grow together!.</p>
 
-- 🔭 I’m currently working on **designing and building data pipelines.**
+- 🔭 I’m currently working on **End To End Machine learning and Data Science Problems with Deployment on Azure and AWS.**
 
 - 👯 I’m looking to collaborate on **new opportunities.**
 
