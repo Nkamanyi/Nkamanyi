@@ -1,5 +1,11 @@
 <h1 align="left">Hi 👋, I'm Nkamanyi Martin</h1>
-<p align="left">I am a Data Engineer with a passion for leveraging technology to solve complex business challenges. My expertise lies in modern cloud environments, including AWS and Azure, where I excel in designing, building, and optimizing high-volume batch and real-time data pipelines. With a strong foundation in data lake infrastructure, data warehousing, and data analytic tools, I am adept at developing and maintaining robust data management platforms.</p>
+<p align="left">Hello! I'm Martin, a passionate Data Scientist dedicated to transforming complex data into actionable insights and intelligent solutions. With a solid foundation in Computer Science and a major in Data Science from Tampere University, I have honed my skills in predictive modeling, data analysis, and machine learning.
+
+Over the years, I've collaborated with diverse teams to drive data-centric decisions in the gaming and cosmetics industries. My hands-on experience spans leading data projects from conception to deployment, using tools like Python, R, and SQL, and advanced technologies such as TensorFlow, Apache Spark, and cloud computing platforms like Azure and AWS.
+
+As I continue to grow in this field, I remain committed to learning and adopting emerging technologies to stay at the forefront of data science innovation. I'm eager to connect with other data professionals and explore new opportunities.
+
+Let’s innovate and grow together!.</p>
 
 - 🔭 I’m currently working on **designing and building data pipelines.**
 
