@@ -1,10 +1,6 @@
 <h1 align="left">Hi 👋, I'm Nkamanyi Martin</h1>
 <p align="left">Hello! I'm Martin, a I am a dedicated and results-driven Data Engineer with extensive experience in developing and maintaining complex data systems. With a strong background in various programming languages, cloud platforms, and big data technologies, I have a proven track record of enhancing data processing efficiency and enabling data-driven decision-making for organizations. My expertise lies in designing robust ETL processes, automating data pipelines, and implementing scalable data warehousing solutions. I am passionate about leveraging my skills to solve challenging data problems and contribute to the success of my team and organization.
 
-Key Skills:
-Languages: Python, SQL, C++, R, MATLAB
-Technologies: Azure, AWS, PostgreSQL, Airflow, Docker, Git/GitHub, DBT, Terraform
-Big Data: Databricks, Snowflake, Spark, Kafka
 Let’s innovate and grow together!.</p>
 
 - 🔭 I’m currently working on 
