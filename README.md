@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nkamanyi Martin</h1>
-<p align="left">Hello! I'm Martin, a dedicated and results-driven Data Engineer with extensive experience in developing and maintaining complex data systems. With a strong background in various programming languages, cloud platforms, and big data technologies, I have a proven track record of enhancing data processing efficiency and enabling data-driven decision-making for organizations. My expertise lies in designing robust ETL processes, automating data pipelines, and implementing scalable data warehousing solutions. I am passionate about leveraging my skills to solve challenging data problems and contribute to the success of my team and organization.
+<p align="left">Hello! I'm Martin, Dynamic and analytical finance professional with a robust educational background and practical experience in quantitative finance, data science, and risk management. Expertise in financial modeling, quantitative analysis, and machine learning. Proven track record of leveraging advanced analytics and machine learning techniques to drive data-driven decisions. Seeking a challenging Quantitative role to utilize my skills in a forward-thinking financial institution.
 
 Let’s innovate and grow together!.</p>
 
@@ -9,7 +9,7 @@ Let’s innovate and grow together!.</p>
 
 - 📫 How to reach me **nkamanyimartin@gmail.com**
 
-- 👨‍💻 Let's connect on **<a href="https://www.linkedin.com/in/data-analyst-data-scientist-machine-learning-model-validation/">LinkedIn</a>**
+- 👨‍💻 Let's connect on **<a href="https://www.linkedin.com/in/quantitative-analyst-data-scientist-machine-learning/">LinkedIn</a>**
 
 
 <h3 align="left">Languages and Tools:</h3>
