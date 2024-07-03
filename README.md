@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nkamanyi Martin</h1>
-<p align="left">Hello! I'm Martin, Dynamic and analytical finance professional with a robust educational background and practical experience in quantitative finance, data science, and risk management. Expertise in financial modeling, quantitative analysis, and machine learning. Proven track record of leveraging advanced analytics and machine learning techniques to drive data-driven decisions. Seeking a challenging Quantitative role to utilize my skills in a forward-thinking financial institution.
+<p align="left">A dynamic and analytical finance professional with a robust educational background and practical experience in quantitative finance, data science, and risk management. Expertise in financial modeling, quantitative analysis, and machine learning. Proven track record of leveraging advanced analytics and machine learning techniques to drive data-driven decisions. Seeking a challenging Quantitative role to utilize my skills in a forward-thinking financial institution.
 
 Let’s innovate and grow together!.</p>
 
